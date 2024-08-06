@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DTS_type/static/css/main.350d5a79.css",
+    "main.js": "/DTS_type/static/js/main.fe7f220d.js",
+    "static/js/453.fdfca98d.chunk.js": "/DTS_type/static/js/453.fdfca98d.chunk.js",
+    "static/media/Demarco.jpeg": "/DTS_type/static/media/Demarco.5c483768e019f968e86d.jpeg",
+    "static/media/cleanyard.jpeg": "/DTS_type/static/media/cleanyard.982152958f0d181dd1df.jpeg",
+    "index.html": "/DTS_type/index.html",
+    "main.350d5a79.css.map": "/DTS_type/static/css/main.350d5a79.css.map",
+    "main.fe7f220d.js.map": "/DTS_type/static/js/main.fe7f220d.js.map",
+    "453.fdfca98d.chunk.js.map": "/DTS_type/static/js/453.fdfca98d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.350d5a79.css",
+    "static/js/main.fe7f220d.js"
+  ]
+}
